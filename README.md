@@ -61,6 +61,7 @@ This project builds upon the excellent work of **Lightweight OpenPose**:
 *   **Lightweight OpenPose**: [https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)
     *   *Paper*: Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose, Osokin, Daniil, arXiv:1811.12004, 2018.
     *   Please see `README_Lightweight_OpenPose.md` for the original README and citation details.
+    *   Licensed under the Apache License 2.0. See `third_party/lightweight_pose/` for licence details.
 
 ## Citation
 
@@ -69,15 +70,7 @@ If you use this repository, please cite the following paper:
 *   **OPPH: A Vision-Based Operator for Measuring Body Movements for Personal Healthcare**
     *   *Link*: [https://dl.acm.org/doi/10.1007/978-3-031-92591-7_13](https://dl.acm.org/doi/10.1007/978-3-031-92591-7_13)
 
-## Third-Party Code
-
-This project includes code adapted from the following repository:
-
-- Lightweight Pose Estimation  
-  Licensed under the Apache License 2.0
-
-See `third_party/lightweight_pose/` for licence details.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

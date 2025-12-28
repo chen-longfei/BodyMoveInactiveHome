@@ -28,7 +28,7 @@ The system processes video input (from files or webcam) to:
     *Note: You may need to install PyTorch manually depending on your CUDA version. See [PyTorch.org](https://pytorch.org/).*
 
 3.  **Download Pre-trained Models:**
-    The system relies on a pre-trained checkpoint (e.g., `checkpoint_iter_370000.pth`). Ensure this file is present in the root directory or `/third_party/lightweight_pose/` directory as expected by the scripts.
+    The system relies on a pre-trained checkpoint (e.g., `checkpoint_iter_370000.pth`). Ensure this file is present in the root directory or `third_party/lightweight_pose/` directory as expected by the scripts.
     [Download Link (from original repo)](https://download.01.org/opencv/openvino_training_extensions/models/human_pose_estimation/checkpoint_iter_370000.pth)
 
 ## Usage
@@ -57,10 +57,7 @@ For each processed video, the system generates:
 ## Credits and Acknowledgements
 
 This project builds upon the excellent work of **Lightweight OpenPose**:
-
-*   **Lightweight OpenPose**: [https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)
-    *   *Paper*: Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose, Osokin, Daniil, arXiv:1811.12004, 2018.
-    *   Please see `README_Lightweight_OpenPose.md` for the original README and citation details.
+*  [https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)
     *   Licensed under the Apache License 2.0. See `third_party/lightweight_pose/` for licence details.
 
 ## Citation
@@ -73,6 +70,7 @@ If you use this repository, please cite the following paper:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 

@@ -15,7 +15,7 @@ The system processes video input (from files or webcam) to:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone [https://github.com/chen-longfei/BodyMoveInactiveHome](https://github.com/chen-longfei/BodyMoveInactiveHome)
     cd BodyMoveInactiveHome
     ```
 
@@ -73,4 +73,5 @@ If you use this repository, please cite the following paper:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
